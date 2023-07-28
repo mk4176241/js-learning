@@ -34,3 +34,12 @@ console.log(Number(boolToNum))
 "" => false
 "Manish" => true   
 */
+
+
+
+/***************************************OPERATIONS******************************* */
+
+//when we first put the stirng then number, so the code is react as a string Like this:
+console.log("1" +2+2); 
+//but when put the number first the code react as a number first then string
+console.log(2+2+"1");
